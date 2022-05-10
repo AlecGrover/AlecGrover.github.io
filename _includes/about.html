@@ -1,0 +1,33 @@
+ <!-- About Section -->
+    <section class="success" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>About</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-lg-offset-2">
+                    <p>Alec Grover is an up and coming software engineer and game developer from Vancouver, Canada. He completed a Bachelor of Science in Computing Science at Simon Fraser University and is chasing his dream of working in the games industry.</p>
+                </div>
+                <div class="col-lg-4">
+                    <p><em>"Almost as far back as I can remember, games have been a core part of who I am. From my first experience when my older cousins handed me a controller while they played Halo CE, to where I am today, one thing is certain. There's a magic in games, and I want to help bring that magic to life."</em></p>
+                </div>
+                <!-- <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <a href="https://github.com/jeromelachaud/freelancer-theme" class="btn btn-lg btn-outline">
+                        <i class="fa fa-download"></i> Download Theme
+                    </a>
+                </div> -->
+            </div>
+            <div class="text-center" style="padding-top:2em">
+                <ul class="list-inline">
+                    {% for network in site.social %}
+                    <li>
+                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </section>
