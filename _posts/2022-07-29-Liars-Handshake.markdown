@@ -5,10 +5,6 @@ date: 2022-07-29
 <<<<<<< HEAD
 img: liars.png
 alt: Seasonal logo art for Destiny 2 Season of the Haunted. Source Bungie Press Kit
-=======
-img: destiny-cropped.png
-alt: Seasonal logo art for Destiny 2 Season of the Haunted. Source Bungie Press Kit
->>>>>>> 2325888d5c943590f624a6e55163489b22dbc562
 git-link: https://github.com/AlecGrover/Liars-Handshake
 project-date: July 2022
 client: Python, Destiny API, HTML, CSS, JavaScript, SQLite
