@@ -8,7 +8,5 @@ git-link: https://github.com/AlecGrover/Weekend-Raytracer
 project-date: July 2022
 client: C++
 category: Engineering Demo
-description: A straightforward demo and practice project implementing a C++ raytracer.
-Built by hand, and with a dedicated camera, rendering, Vector and Ray system, and a
-3D transform object.
+description: A straightforward demo and practice project implementing a C++ raytracer. Built by hand, and with a dedicated camera, rendering, Vector and Ray system, and a 3D transform object.
 ---
