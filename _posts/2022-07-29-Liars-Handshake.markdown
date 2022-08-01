@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-07-29
-img: destiny-cropped.png
+img: liars.png
 alt: Seasonal logo art for Destiny 2: Season of the Haunted. Source: Bungie Press Kit
 git-link: https://github.com/AlecGrover/Liars-Handshake
 project-date: July 2022
