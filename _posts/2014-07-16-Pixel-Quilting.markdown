@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 6
 date: 2021-04-25
 img: PixelQuilt-Cropped.png
 alt: Screenshot from Pixel Art Quilting report video
