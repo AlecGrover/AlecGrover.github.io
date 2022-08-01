@@ -4,7 +4,7 @@ modal-id: 1
 date: 2022-07-29
 <<<<<<< HEAD
 img: liars.png
-alt: Seasonal logo art for Destiny 2: Season of the Haunted. Source: Bungie Press Kit
+alt: Seasonal logo art for Destiny 2 Season of the Haunted. Source Bungie Press Kit
 =======
 img: destiny-cropped.png
 alt: Seasonal logo art for Destiny 2 Season of the Haunted. Source Bungie Press Kit
