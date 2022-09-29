@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 0
+date: 2022-09-29
+img: FPSCoreCropped.png
+alt: A screenshot of the FPS Module in development, displayed is the system running in my personal test sandbox, not a product.
+project-date: September 2022
+client: C++/Unreal Engine 5
+category: Engineering Demo
+description: A set of core FPS functionality developed on contract for a project currently in development. I worked in collaboration with an international team of artists and designers to add additional gameplay functionality to a section of their game including customizable weapons with distinct classes, in-game pick ups, self-scoring targets, impact decals and particle effects, and more.
+---
