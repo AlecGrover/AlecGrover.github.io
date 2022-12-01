@@ -45,6 +45,10 @@ body {
   margin:auto;
 }
 
+#config_div {
+  display: none;
+}
+
 .form-table {
   width: 80vw;
   max-width: 500px;
