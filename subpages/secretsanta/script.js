@@ -91,8 +91,8 @@ function get_target() {
 }
 
 let gList= new Array()
-let gCoded= "\\u005bĀĂ22Ć041Ċ6cĎ5Ď3ĊĈĕĐā0Ėę4aĎfĊ7Ĕę68ĕĉę2ĘćĨĂ4ąĤĒĤī0ďġ9ħėĹĜdĎčę7ĭĵģĂ7ĲŅńĚłĪĻĂ5ŉ6ĿĂ6Ľĩł5d"
-let gSeed= "Christmas"
+let gCoded= "\\u005bĀĂ22Ć041Ċ6cĎ5Ď3ĊĈĕĐā0ĖęČĎĘĂ6Ēę78ĕĉę2ğĚħĂ4aĎčę6ąĲĢćĬĚĪěĭįĲfĊ7ĔĲĥĨĸĩĦĊ4ĴĠĶ0ďĞŀ9ňĨĺĸ4dİŀĸ6łĂ7ōŁœćŕĊ5ŝŎıĠŘŅėŢăŒģŠŧşĎŋŎōĻăd"
+let gSeed= "Jangler"
 
 const configbutton= document.getElementById("configbutton");
 configbutton.addEventListener("click", configure)
