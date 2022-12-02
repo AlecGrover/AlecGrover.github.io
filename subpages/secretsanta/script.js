@@ -60,8 +60,11 @@ function seeded_random_list(list, seed) {
 }
 
 function get_my_target(name_list, name) {
+  name= name.toLowerCase();
+  name= name.charAt(0).toUpperCase() + name.slice(1);
+  name= name.replace(/\s/g, "");
   let i= name_list.indexOf(name)
-  if (i === -1) return "Can you try that again? Did you capitalize your name correctly?"
+  if (i === -1) return "Can you try that again? Check to make sure you're using your name as it is written in the list"
   else if (i >= name_list.length) return "Something weird is going on, Santa's code elf probably broke it..."
   else return name_list[(i + 1) % name_list.length]
 }
