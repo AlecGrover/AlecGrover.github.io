@@ -55,7 +55,7 @@ function seeded_random_list(list, seed) {
     rng_arr.splice(j, 0, r)
     rng_list.splice(j, 0, list[i])
   }
-  console.log(rng_list.join())
+  // console.log(rng_list.join())
   return rng_list
 }
 
