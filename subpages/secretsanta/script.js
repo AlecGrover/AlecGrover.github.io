@@ -4,7 +4,7 @@ import * as Buffer from "https://cdn.skypack.dev/buffer@6.0.3";
 import stringHex from "https://cdn.skypack.dev/string-hex@1.0.0";
 
 function test() {
-  console.log("It works")
+  console.log("It works... right?")
 }
 
 function hex_encode(str) {
