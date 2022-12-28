@@ -93,9 +93,9 @@ function get_target() {
 
 }
 
-let gList= new Array()
-let gCoded= "\\u005bĀĂ22Ć041Ċ6cĎ5Ď3ĊĈĕĐā0ĖęČĎĘĂ6Ēę78ĕĉę2ğĚħĂ4aĎčę6ąĲĢćĬĚĪěĭįĲfĊ7ĔĲĥĨĸĩĦĊ4ĴĠĶ0ďĞŀ9ňĨĺĸ4dİŀĸ6łĂ7ōŁœćŕĊ5ŝŎıĠŘŅėŢăŒģŠŧşĎŋŎōĻăd"
-let gSeed= "Jangler"
+let gList= new Array();
+let gCoded= "\\u005bĀĂ22Ć047Ċ69ĎdĎĉā06cĎ5ĊĈěĘĕĜĕ4ĞĂ6Ěĕ76Ď1Ċ7ĔĤĐħ3ĬĲğĮ02ģķĶ5ĶĥĎeěĶĸŁĊ58ĎfĬĽİćĻd";
+let gSeed= "Snowglobe";
 
 const configbutton= document.getElementById("configbutton");
 configbutton.addEventListener("click", configure)
