@@ -1,10 +1,10 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 0
 date: 2022-07-07
 img: recharge-01-cropped.png
 alt: A work in progress screenshot of Recharge
-project-date: July 2022
+project-date: Currently In Development
 client: Unreal/C++
 category: Arena FPS
 description: A high-speed arena shooter inspired by both iconic 1v1 games like Quake and by modern velocity shooters like Titanfall 2, Recharge will be a unique twist on the classic FPS. Players compete to fully "recharge" by hitting opponents with their beam weapon, upon reaching 100% charge, they are uploaded, which scores them a point and respawns them. This inversion of the standard system aims to create a 1v1 dueler where players can't achieve dominance through fortuitous map control alone, placing the victor in the recovery position after each duel.

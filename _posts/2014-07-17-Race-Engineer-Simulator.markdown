@@ -1,11 +1,12 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 2
 date: 2022-02-01
 img: RES-cropped.png
 alt: Race Engineer Simulator Screenshot
 itch-link: https://sergeant-slash.itch.io/Race-Engineer-Simulator
 git-link: https://github.com/AlecGrover/Race-Engineer-Simulator
+youtube-link: https://youtu.be/FvXdoZ5uxA0
 project-date: February 2022
 client: Unity
 category: Game Development
