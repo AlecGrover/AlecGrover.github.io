@@ -97,6 +97,12 @@ let gList= new Array();
 let gCoded= "\\u005bĀĂ22Ć047Ċ69ĎdĎĉā06cĎ5ĊĈěĘĕĜĕ4ĞĂ6Ěĕ76Ď1Ċ7ĔĤĐħ3ĬĲğĮ02ģķĶ5ĶĥĎeěĶĸŁĊ58ĎfĬĽİćĻd";
 let gSeed= "Snowglobe";
 
+gList.push("Alec");
+gList.push("Josh");
+gList.push("Kelly");
+gList.push("Marcus");
+gList.push("Sam");
+
 const configbutton= document.getElementById("configbutton");
 configbutton.addEventListener("click", configure)
 
