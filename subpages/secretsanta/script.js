@@ -94,16 +94,8 @@ function get_target() {
 }
 
 let gList= new Array();
-let gCoded= "\\u005bĀĂ22Ć047Ċ69ĎdĎĉā06cĎ5ĊĈěĘĕĜĕ4ĞĂ6Ěĕ76Ď1Ċ7ĔĤĐħ3ĬĲğĮ02ģķĶ5ĶĥĎeěĶĸŁĊ58ĎfĬĽİćĻd";
+let gCoded= "\u005bĀĂ22Ć041Ċ6cĎ5Ď3ĊĈĕĐā0Ėę4aĎfĊ7Ĕę68ĕĉę2ĘćĨĂ4ąĤĒĤī0ďġ9ħėĹĜdĎčę7ĭĵģĂ7ĲŅńĚłĪĻĂ5ŉ6ĿĂ6Ľĩł5d";
 let gSeed= "Snowglobe";
-
-gList.push("Alec");
-gList.push("Josh");
-gList.push("Kelly");
-gList.push("Marcus");
-gList.push("Sam");
-
-console.log("Encoded:" + j_encode(gList));
 
 const configbutton= document.getElementById("configbutton");
 configbutton.addEventListener("click", configure)
