@@ -103,6 +103,8 @@ gList.push("Kelly");
 gList.push("Marcus");
 gList.push("Sam");
 
+console.log("Encoded:" + j_encode(gList));
+
 const configbutton= document.getElementById("configbutton");
 configbutton.addEventListener("click", configure)
 
