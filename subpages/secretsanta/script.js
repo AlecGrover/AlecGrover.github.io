@@ -93,7 +93,12 @@ function get_target() {
 
 }
 
-let zList = {"Alec", "Gwen", "Kelly", "Sam", "Marcus"};
+let zList = new Array();
+zList.Append("Alec");
+zList.Append("Gwen")
+zList.Append("Kelly"
+zList.Append("Sam");
+zList.Append("Marcus"};
 let gList= new Array();
 let gCoded= ""; // "\\u005bĀĂ22Ć041Ċ6cĎ5Ď3ĊĈĕĐā0Ėę4aĎfĊ7Ĕę68ĕĉę2ĘćĨĂ4ąĤĒĤī0ďġ9ħėĹĜdĎčę7ĭĵģĂ7ĲŅńĚłĪĻĂ5ŉ6ĿĂ6Ľĩł5d";
 let gSeed= "Nightmare Before Carolling Krampus";
