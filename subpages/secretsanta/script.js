@@ -107,4 +107,5 @@ const configbutton= document.getElementById("configbutton");
 configbutton.addEventListener("click", configure)
 
 const tobutton= document.getElementById("giftbutton");
-tobutton.addEventListener("click", get_target)
+tobutton.addEventListener("click", get_target);
+document.getElementById("seed").innerHTML = gSeed;
