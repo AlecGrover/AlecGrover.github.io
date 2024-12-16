@@ -96,7 +96,7 @@ function get_target() {
 let zList = new Array();
 zList.Append("Alec");
 zList.Append("Gwen")
-zList.Append("Kelly"
+zList.Append("Kelly");
 zList.Append("Sam");
 zList.Append("Marcus"};
 let gList= new Array();
