@@ -101,7 +101,7 @@ let zList = ["Alec", "Gwen", "Kelly", "Sam", "Marcus"];
 // zList.push("Marcus"};
 let gList= new Array();
 let gCoded= ""; // "\\u005bĀĂ22Ć041Ċ6cĎ5Ď3ĊĈĕĐā0Ėę4aĎfĊ7Ĕę68ĕĉę2ĘćĨĂ4ąĤĒĤī0ďġ9ħėĹĜdĎčę7ĭĵģĂ7ĲŅńĚłĪĻĂ5ŉ6ĿĂ6Ľĩł5d";
-let gSeed= "Grandma Eva's Dawning Cookie Surprise!";
+let gSeed= "Grandma Eva's Dawning Cookie Surprise";
 
 const configbutton= document.getElementById("configbutton");
 configbutton.addEventListener("click", configure)
