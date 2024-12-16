@@ -117,8 +117,15 @@ button {
   font-size: 2em;
 }
 
-
-
+#seed {
+	position: fixed;
+	bottom: 10px;
+	width: 100%;
+	text-align: center;
+	font-size: 0.875rem; /* Small text */
+	color: #666; /* Medium grey */
+	font-family: Arial, sans-serif;
+}
 
 /* Config Menu */
 /* #config {
