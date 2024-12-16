@@ -79,11 +79,11 @@ function configure() {
 }
 
 function get_target() {
-  console.log("Read gCoded: " + gCoded)
-  console.log("Read gSeed: " + gSeed)
+  // console.log("Read gCoded: " + gCoded)
+  // console.log("Read gSeed: " + gSeed)
   try {
-    let lList= j_decode(gCoded)
-    document.getElementById("recipient").innerHTML= get_my_target(seeded_random_list(lList, gSeed), document.getElementById("name").value)
+    // let lList= j_decode(gCoded)
+    document.getElementById("recipient").innerHTML= get_my_target(seeded_random_list(zList, gSeed), document.getElementById("name").value)
   }
   catch(err) {
     console.log(err)
@@ -93,8 +93,9 @@ function get_target() {
 
 }
 
+let zList = {"Alec", "Gwen", "Kelly", "Sam", "Marcus"};
 let gList= new Array();
-let gCoded= "\\u005bĀĂ22Ć041Ċ6cĎ5Ď3ĊĈĕĐā0Ėę4aĎfĊ7Ĕę68ĕĉę2ĘćĨĂ4ąĤĒĤī0ďġ9ħėĹĜdĎčę7ĭĵģĂ7ĲŅńĚłĪĻĂ5ŉ6ĿĂ6Ľĩł5d";
+let gCoded= ""; // "\\u005bĀĂ22Ć041Ċ6cĎ5Ď3ĊĈĕĐā0Ėę4aĎfĊ7Ĕę68ĕĉę2ĘćĨĂ4ąĤĒĤī0ďġ9ħėĹĜdĎčę7ĭĵģĂ7ĲŅńĚłĪĻĂ5ŉ6ĿĂ6Ľĩł5d";
 let gSeed= "Nightmare Before Carolling Krampus";
 
 const configbutton= document.getElementById("configbutton");
