@@ -6,7 +6,7 @@ excerpt: "Built core elements of an MMORPG economy and owned them through to a l
 image: "assets/images/portfolio/caravan-banner.jpg"
 category: "professional"
 tags: ["Unreal Engine", "C++", "Economy", "Live Ops"]
-hidden_tags: ["Feature Flags", "Distributed", "Analytics"]
+hidden_tags: ["Feature Flags", "Distributed", "Analytics", "Progression"]
 studio: "Intrepid Studios"
 role: "Gameplay Engineer"
 duration: "30 months"

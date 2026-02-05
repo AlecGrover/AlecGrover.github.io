@@ -6,6 +6,7 @@ excerpt: "Engineered key systems that enabled designers to independently create 
 image: "assets/images/portfolio/statue.jpg"
 category: "professional"
 tags: ["Unreal Engine", "C++", "Economy", "Design"]
+hidden_tags: ["Progression"]
 studio: "Intrepid Studios"
 role: "Gameplay Engineer"
 duration: "30 months"
