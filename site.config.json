@@ -1,0 +1,29 @@
+{
+    "site": {
+        "title": "Alec Grover | Gameplay Systems Engineer",
+        "description": "Gameplay systems engineer portfolio, MMO Economy and Progression",
+        "author": "Alec Grover",
+        "email": "contact@alecgrover.com",
+        "url": "https://alecgrover.com"
+    },
+    "social": {
+        "linkedin": "https://www.linkedin.com/in/alecgrover/",
+        "github": "https://github.com/AlecGrover/",
+        "itch": "https://sergeant-slash.itch.io/"
+    },
+    "navigation": [
+        { "label": "Home", "url": "index.html" },
+        { "label": "Portfolio", "url": "portfolio.html" },
+        { "label": "About", "url": "about.html" },
+        { "label": "Contact", "url": "contact.html" }
+    ],
+    "portfolio": {
+        "categories": [
+            { "id": "all", "label": "All" },
+            { "id": "professional", "label": "Professional Work" },
+            { "id": "personal", "label": "Personal Projects" },
+            { "id": "other", "label": "Other" }
+        ],
+        "featuredLimit": 3
+    }
+}

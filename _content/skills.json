@@ -1,0 +1,30 @@
+[
+    {
+        "category": "Languages",
+        "skills": [
+            { "name": "C++", "tag": "C++" },
+            { "name": "C#", "tag": "C#" },
+            { "name": "Python", "tag": "Python" }
+        ]
+    },
+    {
+        "category": "Engines & Tools",
+        "skills": [
+            { "name": "Unreal Engine", "tag": "Unreal Engine" },
+            { "name": "Unity", "tag": "Unity" },
+            { "name": "Perforce", "tag": "Perforce" },
+            { "name": "Git", "tag": "Git" }
+        ]
+    },
+    {
+        "category": "Specializations",
+        "skills": [
+            { "name": "Economy Systems", "tag": "Economy" },
+            { "name": "Live Operations", "tag": "Live Ops" },
+            { "name": "Player Progression", "tag": "Progression" },
+            { "name": "Analytics & Telemetry", "tag": "Analytics" },
+            { "name": "Feature Flagging", "tag": "Feature Flags" },
+            { "name": "Distributed Systems", "tag": "Distributed" }
+        ]
+    }
+]

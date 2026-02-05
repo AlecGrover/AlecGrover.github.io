@@ -1,0 +1,19 @@
+[
+    {
+        "slug": "project-professional-ashes-of-creation",
+        "category": "professional",
+        "featured": true,
+        "isParent": true,
+        "children": ["sub-project-aoc-economy", "sub-project-aoc-feature-flagging-safeguards", "sub-project-aoc-inter-server", "sub-project-aoc-analytics", "sub-project-aoc-designer-data"]
+    },
+    {
+        "slug": "project-personal-race-engineer-simulator",
+        "category": "personal",
+        "featured": false
+    },
+    {
+        "slug": "project-pixel-art-quilting",
+        "category": "other",
+        "featured": false
+    }
+]
