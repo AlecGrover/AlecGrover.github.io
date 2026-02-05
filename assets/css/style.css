@@ -303,16 +303,6 @@ button {
     background: rgba(107, 158, 140, 0.2);
 }
 
-.nav-links a.active::after {
-    content: '♦';
-    position: absolute;
-    bottom: 2px;
-    left: 50%;
-    transform: translateX(-50%);
-    font-size: 0.5em;
-    color: var(--color-primary);
-}
-
 .mobile-menu-toggle {
     display: none;
     flex-direction: column;
