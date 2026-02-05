@@ -6,6 +6,7 @@ excerpt: "Designed and developed live data tracking solutions to refine balance 
 image: "assets/images/portfolio/crashed-caravan.jpg"
 category: "professional"
 tags: ["Unreal Engine", "C++", "Economy", "Analytics"]
+hidden_tags: ["Live Ops"]
 studio: "Intrepid Studios"
 role: "Gameplay Engineer"
 duration: "19 months"

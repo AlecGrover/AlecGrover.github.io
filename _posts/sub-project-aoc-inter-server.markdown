@@ -6,6 +6,7 @@ excerpt: "Developed key economy systems in an environment of changing server aut
 image: "assets/images/portfolio/wide-world.jpg"
 category: "professional"
 tags: ["Unreal Engine", "C++", "Economy", "Networking"]
+hidden_tags: ["Distributed"]
 studio: "Intrepid Studios"
 role: "Gameplay Engineer"
 duration: "30 months"

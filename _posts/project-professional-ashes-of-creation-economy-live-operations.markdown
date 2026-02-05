@@ -6,6 +6,7 @@ excerpt: "Designed and implemented economy systems with live service safeguards 
 image: "assets/images/portfolio/combat-system-preview.jpg"
 category: "professional"
 tags: ["Unreal Engine", "C++", "Economy", "Live Ops"]
+hidden_tags: ["Feature Flags", "Distributed"]
 studio: "Intrepid Studios"
 role: "Gameplay Engineer"
 duration: "18 months"

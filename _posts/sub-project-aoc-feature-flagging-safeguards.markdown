@@ -6,6 +6,7 @@ excerpt: "Implemented and maintained core safeguards to protect high risk system
 image: "assets/images/portfolio/thief.jpg"
 category: "professional"
 tags: ["Unreal Engine", "C++", "Economy", "Live Ops"]
+hidden_tags: ["Feature Flags", "Analytics"]
 studio: "Intrepid Studios"
 role: "Gameplay Engineer"
 duration: "18 months"
